@@ -180,3 +180,4 @@ Distributed under the GPL License. See `LICENSE` for more information.
 [@anilsenay](https://twitter.com/anilsenay)
 
 Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
+Update README.md with info 3
