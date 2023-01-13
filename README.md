@@ -182,3 +182,4 @@ Distributed under the GPL License. See `LICENSE` for more information.
 Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
 Update README.md with info 3
 Update README.md with info 8
+Update README.md with info 13
